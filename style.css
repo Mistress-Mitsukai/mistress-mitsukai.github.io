@@ -6,10 +6,12 @@ body{
 h1 {
 	font-size: 1.3em;
 	text-align:center;
+	color:#1c801c;
      }
 
 h2 {
-	color:#4C6DFF;
+	color:#4c6dff;
+	font-family: "Pacifico", fantasy;
      }
 
 table {
