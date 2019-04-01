@@ -33,3 +33,22 @@ th {
 	color:#ffffff;
 	background-color:#003366;
    }
+
+
+
+body {
+  padding: 20px;
+}
+button {
+  margin-top: 30px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: green;
+  border: none;
+  border-radius: 2em;
+}
+button:hover {
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    box-shadow: 0 0 40px 40px lightgreen inset;
+}
